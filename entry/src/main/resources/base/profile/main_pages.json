@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/SmokePage",
+    "pages/BandingPage",
+    "pages/LightPage",
+    "pages/TemperaturePage",
+    "pages/AccessPage"
+  ]
+}
